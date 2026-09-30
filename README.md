@@ -15,23 +15,23 @@ The **Data-Centric Neural Optimizer** is an interactive dashboard that demonstra
 
 | Dashboard Overview | Dataset Overview |
 | :---: | :---: |
-| ![Dashboard](image/1.png) | ![Dataset Overview](image/2.png) |
+| ![Dashboard](image/1) | ![Dataset Overview](image/2) |
 
 | Feature Summary | Outlier Detection & Feature Selection |
 | :---: | :---: |
-| ![Feature Summary](image/3.png) | ![Feature Selection](image/4.png) |
+| ![Feature Summary](image/3) | ![Feature Selection](image/4) |
 
 | Refinement Analysis | Model Comparison (Random Forest) |
 | :---: | :---: |
-| ![Refinement Analysis](image/5.png) | ![Random Forest](image/6.png) |
+| ![Refinement Analysis](image/5) | ![Random Forest](image/6) |
 
 | Model Comparison (Logistic Regression) | Model Comparison (ANN) |
 | :---: | :---: |
-| ![Logistic Regression](image/7.png) | ![ANN](image/8.png) |
+| ![Logistic Regression](image/7) | ![ANN](image/8) |
 
 | Summary Leaderboard & Export |
 | :---: |
-| ![Summary Leaderboard](image/9.png) |
+| ![Summary Leaderboard](image/9) |
 
 ---
 
